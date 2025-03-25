@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit - Marketing Calendar Webapp"
+git branch -M main
+git remote add origin https://github.com/tuo-username/marketing-calendar-webapp.git
+git push -u origin main
